@@ -23,4 +23,12 @@
   <build>
   </build>
 
+  <repositories>
+    <repository>
+      <id>github-octopusthu-ejw</id>
+      <name>GitHub octopusthu ejw Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/octopusthu/ejw</url>
+    </repository>
+  </repositories>
+
 </project>
