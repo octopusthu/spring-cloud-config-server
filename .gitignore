@@ -1,0 +1,10 @@
+﻿**/target/
+application-dev_home.properties
+application-integ_cloud.properties
+application-prod_cloud.properties
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
