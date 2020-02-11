@@ -1,4 +1,5 @@
 ﻿**/target/
+application-dev_local.properties
 application-dev_home.properties
 application-integ_cloud.properties
 application-prod_cloud.properties
