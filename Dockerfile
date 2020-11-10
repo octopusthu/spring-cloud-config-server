@@ -1,4 +1,5 @@
 FROM azul/zulu-openjdk-alpine:11
+RUN apk update && apk add --no-cache tzdata
 RUN addgroup -S spring && adduser -S spring -G spring
 USER spring:spring
 ARG DEPENDENCY=target/dependency
