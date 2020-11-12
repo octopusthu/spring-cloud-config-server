@@ -4,9 +4,13 @@ Running at [http://localhost:8888/configserver](http://localhost:8888/configserv
 
 ## Releases
 
-### Next Release `1.0.0-SNAPSHOT`
+### Next Release `1.0.1-RELEASE`
 
-### Current Release
+- Upgrade to ejw-parent:1.4.2-RELEASE
+
+### Current Release `1.0.0-RELEASE`
+
+- Initial release. 
 
 ## Build Docker Image
 

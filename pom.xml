@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.octopusthu.dev</groupId>
   <artifactId>configserver</artifactId>
-  <version>1.0.0-RELEASE</version>
+  <version>1.0.1-SNAPSHOT</version>
   <description>Spring Cloud Config Server.</description>
 
   <parent>
     <groupId>com.octopusthu.ejw</groupId>
     <artifactId>ejw-parent</artifactId>
-    <version>1.4.1-RELEASE</version>
+    <version>1.4.2-SNAPSHOT</version>
   </parent>
 
   <dependencies>
