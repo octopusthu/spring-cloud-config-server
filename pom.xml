@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.octopusthu.dev</groupId>
   <artifactId>configserver</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <description>Spring Cloud Config Server.</description>
 
   <parent>
