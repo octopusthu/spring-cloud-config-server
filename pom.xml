@@ -11,7 +11,7 @@
   <parent>
     <groupId>com.octopusthu.ejw</groupId>
     <artifactId>ejw-parent</artifactId>
-    <version>1.4.1-RELEASE</version>
+    <version>1.4.2-SNAPSHOT</version>
   </parent>
 
   <dependencies>
