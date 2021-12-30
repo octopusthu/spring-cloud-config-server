@@ -1,19 +1,11 @@
 # spring-cloud-config-server
 
-Running at [http://localhost:8888/configserver](http://localhost:8888/configserver).
+![Java CI with Maven](https://github.com/octopusthu/spring-cloud-config-server/actions/workflows/maven.yml/badge.svg)
 
-## Releases
-
-### Next Release `1.0.0-SNAPSHOT`
-
-### Current Release
+An instance of Spring Cloud Config Server that comes with some out-of-the-box functionalities such as HTTP Basic authentication.
 
 ## Build Docker Image
 
-```shell
-mvn clean package
-
-mkdir -p target/dependency && (cd target/dependency; jar -xf ../*.jar)
-
-docker build -t octopusthu/configserver .
+```bash
+docker build -t octopusthu/spring-cloud-config-server .
 ```
