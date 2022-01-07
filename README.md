@@ -7,5 +7,7 @@ An instance of Spring Cloud Config Server that comes with some out-of-the-box fu
 ## Build Docker Image
 
 ```bash
+mvn clean package
+
 docker build -t octopusthu/spring-cloud-config-server .
 ```
